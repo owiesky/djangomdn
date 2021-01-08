@@ -1,0 +1,4 @@
+#virtual env django 3.1.5 | python 3.9.1
+venv/
+*.log
+**/log
